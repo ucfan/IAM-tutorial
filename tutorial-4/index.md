@@ -15,6 +15,7 @@
 - IAM user login page
 	- https://aws.amazon.com
 	- or https://355525562308.signin.aws.amazon.com
+
 ### Tutorial 流程
 - Step 1: Create a Policy to Enforce MFA Sign-in
 	- 建立deny非MFA登入的policy
@@ -23,5 +24,6 @@
 - Step 3: Test Your User's Access
 	- 將你的user加入該group則完成
 	- 沒有透過MFA登入就算該user有permission還是會被deny
+	
 ###備註
 - 我個人是用iphone的app: Google Authenticator做MFA用，其他有多種進階付費方式可以去aws內參考。(ex. 綁硬體，SMS......etc) 
