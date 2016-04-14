@@ -39,7 +39,7 @@ AWS Identity and Access Management (IAM)
 本次 sign-in link：[awstudyjacky](https://awstudyjacky.signin.aws.amazon.com/console)
 
 |帳號|密碼|
-|---|
+|--|--|
 | awstudy1 | awstudy |
 
 #### 3. user IAM login
